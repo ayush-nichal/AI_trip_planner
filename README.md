@@ -1,1 +1,1 @@
-# eternity_planner
+# AI trip planner
